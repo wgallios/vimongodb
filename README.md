@@ -1,4 +1,4 @@
 vimongodb
 =========
 
-VIM plugin for MongoDB
+VIM plugin for MongoDB based on the [Vimongous](https://github.com/robu3/vimongous) plugin
